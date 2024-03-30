@@ -45,9 +45,9 @@ categories: ["完结文"]
 
 [点击下载](/downloads/PhD平行世界-到此为止NPby贝塞尔.txt)
 
-#感谢@被窝橘 太太的倾情创作
+##感谢@被窝橘 太太的倾情创作
 
-![全家福](/images/4psetting.jpg)
+![全家福](/images/4psetting3.jpg)
 ![全家福](/images/4psetting2.jpg)
 ![全家福](/images/4psetting.jpg)
 

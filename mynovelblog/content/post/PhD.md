@@ -22,7 +22,7 @@ categories: ["完结文"]
 
 
 ## 全文TXT下载
+[点击下载](/downloads/每天回家都看到我家PhD生不如死（2024最终版）by匿名大黄花鱼.txt)
 
-[点击下载](/downloads/免贵姓阮by贝塞尔.txt)
 
 

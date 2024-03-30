@@ -1,7 +1,7 @@
 ---
 title: "【短篇恶搞·完结】免贵姓阮（2024）"
-date: 2024-03-03T16:50:28+08:00
-categories: ["连载中"]
+date: 2024-03-30T16:50:28+08:00
+categories: ["完结文"]
 ---
 ![封面](/images/ruan.jpg)
 
@@ -11,7 +11,8 @@ categories: ["连载中"]
 -  废文：[点击访问](https://www.sosad.fun/threads/243350/profile "访问链接")
 
 ## 全文下载
-[点击下载](/downloads/每天回家都看到我家PhD生不如死（2024最终版）by匿名大黄花鱼.txt)
+[点击下载](/downloads/免贵姓阮by贝塞尔.txt)
+
 
 ## 全文阅读
 
