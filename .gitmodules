@@ -1,0 +1,7 @@
+[submodule "mynovelblog/public"]
+	path = mynovelblog/public
+	url = https://github.com/Lucia2675/butterworth.github.io.git
+	branch = main
+[submodule "mynovelblog/themes/JuiceBar"]
+	path = mynovelblog/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git

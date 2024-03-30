@@ -1,0 +1,60 @@
+baseURL = '' 
+languageCode = 'en-us'
+theme = "JuiceBar"
+title = "Bessel's Novel Blog"
+
+[params]
+author = "Bessel"
+description = "A Novel Archive "
+
+authorImage = "/images/author.png"
+paginate = 5 
+Title = "Bessel's Novel Archive"
+content = "I am not Butterworth, call me Bessel:)"
+imageUrl = "/images/avatar.jpg"
+# To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
+#[[params.social]]
+#name = "Github"
+#url = "https://github.com/hotjuicew"
+[[params.social]]
+name = "feiwen"
+url = "https://www.sosad.fun/users/75036"
+[[params.social]]
+name = "qinghuayu"
+url = "https://allcp.net/home.php?mod=space&uid=447595"
+[[params.social]]
+name = "changpei"
+url = "https://www.gongzicp.com/zone/user-1423400.html"
+[[params.social]]
+name = "weibo"
+url = "https://www.weibo.com/u/5550893538"
+
+[taxonomies]
+category = "categories"
+
+# To add a new navigation link
+[[menu.main]]
+name = "About"
+url = "/about"
+[[menu.main]]
+name = "Novels"
+url = "/post"
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+
+[params.giscus]
+repo = "hotjuicew/blog"
+repoID = "R_kgDOHHQOuw"
+category = "Announcements"
+categoryID = "DIC_kwDOHHQOu84CWCQ3"
+mapping = "og:title"
+reactionsEnabled = "1"
+emitMetadata = "0"
+inputPosition = "bottom"
+lang = "en"
+loading = "lazy"
+
+# Used for outputting the documentation (required).
+[outputs]
+home = ["HTML", "RSS", "JSON"]
