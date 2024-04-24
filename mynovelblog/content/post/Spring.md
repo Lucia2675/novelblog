@@ -53,6 +53,10 @@ categories: ["完结文"]
 感谢盗文网站  
   
 ## 全文TXT下载
+<!-- 使用 HTML 创建下载链接 -->
+<a href="/downloads/我没有为你伤春悲秋不配有憾事.txt" download="我没有为你伤春悲秋不配有憾事.txt">点击下载1</a>
+
+
 [点击下载](/downloads/我没有为你伤春悲秋不配有憾事.txt)
 
 
